@@ -8,7 +8,7 @@ html,
 body {
   height: 100%;
   width: 100%;
-  background-color: #F2F2F2;
+  background-color: #302f2f;
   font-family: monospace;
 }
 
@@ -18,7 +18,7 @@ main {
   background-color: #FFFFFF;
   /* border: 1px solid black; */
   border-radius: 10px;
-  box-shadow: 1px 1px 5px gray;
+  box-shadow: 0px 0px 50px rgb(237, 232, 232);
   height: 300px;
   width: 600px;
   top: 50%;
